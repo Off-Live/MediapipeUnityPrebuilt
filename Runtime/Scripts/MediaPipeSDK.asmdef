@@ -4,6 +4,7 @@
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [
+        "iOS",
         "WebGL"
     ],
     "allowUnsafeCode": true,
